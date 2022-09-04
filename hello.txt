@@ -16,4 +16,4 @@ hello cscourage!hello git!
 hello cscourage!hello git!
 hello cscourage!hello git!
 hello cscourage!hello git! master test
-hello cscourage!hello git!
+hello cscourage!hello git! hot-fix
